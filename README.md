@@ -1,1 +1,1 @@
-Python script that checks for valid finnish ibans.
+Python script that checks for valid Finnish IBANs.
